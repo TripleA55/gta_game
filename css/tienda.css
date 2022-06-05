@@ -1,0 +1,14 @@
+.slider {
+	position: relative;
+	overflow-x: visible;
+	height: 100%;
+	/* display: grid;
+	grid-auto-flow: column; */
+	/* transition-duration: 0.75s;
+    transition-timing-function: ease;
+    transition-property: opacity; */
+}
+
+body{
+	background-image: linear-gradient(black,white);
+}

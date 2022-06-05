@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container01{
+    width: 100%;
+    margin-top: -1000px;
+    position: relative;
+    text-align: center;
+    background-image: linear-gradient(black 2.5s) white 2.5s;
+    border: 10px;    
+    border-radius: 15px;
+    transition: all 2s;
+    
+}
+
+
+h1{
+    font-family:fantasy;
+    color: white;
+    width: 100%;
+    margin-right: 100px;
+    text-align: center;
+}
+
+h2{
+    font-family: fantasy;
+    text-align: center;
+    color: white;
+    width: 100%;
+    margin-right: 100px;
+}
+
+
+
+p{
+    color: white
+}
+
+p2{
+    color: rgb(255, 255, 255);
+    
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: linear-gradient(rgb(0, 0, 0),rgb(255, 255, 255));
+}
+
+.container{
+    margin-right: 400px;
+    margin-top: 100px;
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    border: 50px solid rgba(63, 43, 7, 0.76);
+    box-shadow: 0px 15px 25px ;
+     ;
+}
+
+.container-title{
+    margin-top: 10px;
+    border-radius: 50px;
+}
+
+.container-title h2{
+    color: rgba(59, 36, 0, 0.877);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container-title h5{
+    color: rgba(0, 0, 0, 0.308);
+    font-family:fantasy;
+}
+
+.container-title h6{
+    color: rgba(0, 0, 0, 0.308);
+}
+
+.container-title p{
+    color:rgba(11, 1, 41, 0.644);
+}

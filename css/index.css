@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+	/* padding: 0;
+	margin: 0; */
+}
+
+.d-b {
+	display: flex;
+	text-decoration: none;
+	color: inherit;
+}
